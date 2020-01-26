@@ -7,11 +7,9 @@ Jandy's private configuration of vim
 #add topept/vim-commentary; 
 #link:  https://github.com/tpope/vim-commentary
 
-`
-mkdir -p ~/.vim/pack/tpope/start
-cd ~/.vim/pack/tpope/start
-git clone https://tpope.io/vim/commentary.git
-vim -u NONE -c "helptags commentary/doc" -c q
-`
+`mkdir -p ~/.vim/pack/tpope/start`
+`cd ~/.vim/pack/tpope/start`
+`git clone https://tpope.io/vim/commentary.git`
+`vim -u NONE -c "helptags commentary/doc" -c q`
 
 #---------end---------
