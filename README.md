@@ -1,6 +1,12 @@
 # vim_configure
 Jandy's private configuration of vim
 
+# How to run
+use commands in terminal:  
+`cd vim_configure `  
+`bash vim_configuration.sh`
+
+
 #2020-01-26
 #-------start--------
 
